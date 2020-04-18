@@ -1,0 +1,260 @@
+[
+  {
+    "name": "colors",
+    "words": [
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "pink",
+        "id": "0",
+        "tr": "pembe"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "grey",
+        "id": "1",
+        "tr": "gri"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "black",
+        "id": "2",
+        "tr": "siyah"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "white",
+        "id": "3",
+        "tr": "beyaz"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "brown",
+        "id": "4",
+        "tr": "kahverengi"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "orange",
+        "id": "5",
+        "tr": "turuncu"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "purple",
+        "id": "6",
+        "tr": "mor"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "green",
+        "id": "7",
+        "tr": "yeÃ…Å¸il"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "dark blue",
+        "id": "8",
+        "tr": "lacivert"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "yellow",
+        "id": "9",
+        "tr": "sarÃ„Â±"
+      },
+      {
+        "hint": "Bir ÃƒÂ§eÃ…Å¸it renk ismi",
+        "en": "red",
+        "id": "10",
+        "tr": "kÃ„Â±rmÃ„Â±zÃ„Â±"
+      }
+    ]
+    
+  },
+  {
+    "name": "numbers",
+    "words": [
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "0",
+        "en": "one",
+        "tr": "bir"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "1",
+        "en": "two",
+        "tr": "iki"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "2",
+        "en": "three",
+        "tr": "ÃƒÂ¼ÃƒÂ§"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "3",
+        "en": "four",
+        "tr": "4"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "4",
+        "en": "five",
+        "tr": "beÃ…Å¸"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "5",
+        "en": "six",
+        "tr": "altÃ„Â±"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "6",
+        "en": "seven",
+        "tr": "yedi"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "7",
+        "en": "thirty",
+        "tr": "otuz"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "8",
+        "en": "forty",
+        "tr": "kÃ„Â±rk"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "9",
+        "en": "ninety",
+        "tr": "doksan"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "10",
+        "en": "twenty",
+        "tr": "yirmi"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "12",
+        "en": "ten",
+        "tr": "on"
+      },
+      {
+        "hint": "KÃƒÂ¼ÃƒÂ§ÃƒÂ¼k bir sayÃ„Â±",
+        "id": "13",
+        "en": "eighty",
+        "tr": "seksen"
+      }
+    ]
+    
+  },
+  {
+    "name": "house",
+    "words": [
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "1",
+        "en": "rug",
+        "tr": "kilim"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "2",
+        "en": "vase",
+        "tr": "vazo"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "3",
+        "en": "lamp",
+        "tr": "lamba"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "4",
+        "en": "tap",
+        "tr": "musluk"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "5",
+        "en": "toothbrush",
+        "tr": "diÃ…Å¸ fÃ„Â±rÃƒÂ§asÃ„Â±"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "6",
+        "en": "towel",
+        "tr": "havlu"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "7",
+        "en": "soap",
+        "tr": "sabun"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "8",
+        "en": "blanket",
+        "tr": "battaniye"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "9",
+        "en": "carpet",
+        "tr": "halÃ„Â±"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "10",
+        "en": "cup",
+        "tr": "fincan"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "11",
+        "en": "cupboard",
+        "tr": "dolap"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "12",
+        "en": "teapot",
+        "tr": "ÃƒÂ§aydanlÃ„Â±k"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "13",
+        "en": "plates",
+        "tr": "tabaklar"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "14",
+        "en": "wall",
+        "tr": "duvar"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "15",
+        "en": "window",
+        "tr": "pencere"
+      },
+      {
+        "hint": "Her evde bulunan bir eÃ…Å¸ya ismi",
+        "id": "16",
+        "en": "sink",
+        "tr": "lavabo"
+      }
+    ]
+    
+  }
+]
